@@ -1,4 +1,4 @@
-#Steps
+# Steps
 
 1. Clone the repo
 2. Do `npm i`
